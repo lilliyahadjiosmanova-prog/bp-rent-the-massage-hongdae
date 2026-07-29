@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-massage-hongdae.xyz/sitemap.xml
+Sitemap: https://the-massage-hongdae.xyz/sitemap-index.xml
